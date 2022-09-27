@@ -13,7 +13,7 @@ The projects in this class highlight Java concepts you may not be familiar with 
 These concepts will be necessary for the assignments.
 
 ## Things to do
-Make sure you have git, a Java 1.7+ JDK, and ant installed and running on your machine. We will be using githbub classrooms for all assignments in this course. The first thing you need to do is to accept the assignment ([link]). Github will automatically create repository with a template for the homework in it. You will have to submit assignments through Github classrooms as well.
+Make sure you have git, a Java 1.7+ JDK, and ant installed and running on your machine. We will be using githbub classrooms for all assignments in this course. The first thing you need to do is to accept the assignment ([https://classroom.github.com/a/gRmTQeSP]). Github will automatically create repository with a template for the homework in it. You will have to submit assignments through Github classrooms as well.
 
 You are responsible for completing all of the code marked with //TODO. Here's how the assignment works at a high-level:
 * You are given as CSV file with some data
